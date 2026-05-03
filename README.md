@@ -1,4 +1,4 @@
-<img align="left" src="./Me.jpeg" alt="V cool picture of me(Unamta)" width=350/>
+<img align="left" src="./Me.jpeg" alt="V cool picture of me(Unamta)" width=375/>
 
 ```
 Hi, I'm Unamta.
