@@ -1,35 +1,30 @@
-<img align="left" src="./Me.jpeg" alt="V cool picture of me(Unamta)" width=320/>
+<img align="left" src="./Me.jpeg" alt="V cool picture of me(Unamta)" width=400/>
 
-```csharp
+```
 Hi, I'm Unamta.
 
-Computer Science student and aspiring Software Developer with hands-on experience in JavaScript, backend development, and building full-stack applications.
+Computer Science student and aspiring Software Developer with 
+hands-on experience in JavaScript, backend development, and 
+building full-stack applications.
 
 --- About me --------------------------
 
 - Currently studying Computer Science in London  
 - Completed a Software Development Bootcamp (Northcoders)  
-- Interested in backend development, data-driven applications, and real-world problem solving  
+- Interested in backend development, data-driven applications, 
+and real-world problem solving  
 - Actively building projects to strengthen practical skills  
 - Looking for internships and junior developer opportunities  
 
 --- Tech stack --------------------------
 
-Languages:  
-JavaScript, Python  
-
-Frontend:  
-HTML, CSS, React  
-
-Backend:  
-Node.js, Express  
-
-Databases:  
-PostgreSQL  
-
-Tools:  
-Git, GitHub, REST APIs, Agile, TDD  
-
+Languages: JavaScript, Python  
+Frontend: HTML, CSS, React  
+Backend: Node.js, Express  
+Databases: PostgreSQL  
+Tools: Git, GitHub, REST APIs, Agile, TDD  
+```
+```
 --- Projects --------------------------
 
  NC News (Full Stack Project)
@@ -67,5 +62,5 @@ Software Development Bootcamp – Northcoders (2025)
 
 - GitHub: https://github.com/Unamta  
 - LinkedIn: https://www.linkedin.com/in/unamta-aslam/  
-- Email: Aslamunamta@gmail.com  
+- Email: Aslamunamta@gmail.com
 ```
