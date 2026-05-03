@@ -3,16 +3,16 @@
 ```
 Hi, I'm Unamta.
 
-Computer Science student and aspiring Software Developer with 
-hands-on experience in JavaScript, backend development, and 
-building full-stack applications.
+Computer Science student and aspiring Software Developer 
+with hands-on experience in JavaScript, backend development, 
+and building full-stack applications.
 
 --- About me --------------------------
 
 - Currently studying Computer Science in London  
 - Completed a Software Development Bootcamp (Northcoders)  
 - Interested in backend development, data-driven applications, 
-and real-world problem solving  
+  and real-world problem solving  
 - Actively building projects to strengthen practical skills  
 - Looking for internships and junior developer opportunities  
 
